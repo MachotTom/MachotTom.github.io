@@ -9,8 +9,12 @@ p
 }
 body
 {
-	background-image:  url("https://image.freepik.com/photos-gratuite/texture-fond-ecran-blanc_1203-8531.jpg");
+	background-image:  url("https://th.bing.com/th/id/OIP.Gili5qMqp2TR_KsBmZMb9wHaEK?rs=1&pid=ImgDetMain");
     backgound-repeat: no-repeat;
 	background-position: right top;
 	background-size: 1000px 1000px;
+}
+.td_3 {
+	display:inline-block;
+	vertcal-align:right;
 }
