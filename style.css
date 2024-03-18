@@ -1,6 +1,7 @@
 h1
 {
 	text-align: center;
+	color : blue;
 }
 p
 {
@@ -9,12 +10,42 @@ p
 }
 body
 {
-	background-image:  url("https://th.bing.com/th/id/OIP.Gili5qMqp2TR_KsBmZMb9wHaEK?rs=1&pid=ImgDetMain");
+	background-image:  url("https://i0.wp.com/www.corekap.com/wpckp/wp-content/uploads/2017/03/Font-dEcran-Bleu-Clair.jpg?ssl=1");
     backgound-repeat: no-repeat;
-	background-position: right top;
+	background-position: right;
 	background-size: 1000px 1000px;
+    font-size : 17px;
 }
 .td_3 {
 	display:inline-block;
 	vertcal-align:right;
 }
+ul {
+
+	
+	margin: 0;
+	padding: 0;
+	overflow: auto;
+	background-color: rgb(36, 51, 116);
+  }
+
+  li a {
+	display: block;
+	color: white;
+	padding: 10px; 
+	text-align:center;
+	font-size:25px;
+	text-decoration: none;
+  }
+  
+  li a:hover {
+	background-color: #00FFFF;;
+	color: black;
+	text-decoration: none;
+  }
+  
+  li {
+		/*float:left;*/
+		display: inline-block;
+		width : 120px;
+	}
